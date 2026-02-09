@@ -1,0 +1,16 @@
+body {
+    background-image: url('../images/thomas-heintz-0tgMnMIYQ9Y-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(19, 18, 18);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+} 
+
+.about-body {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 50px auto;
+}
